@@ -8,8 +8,8 @@
 
 | 支付方式 | 二维码 / QR Code |
 |----------|----------------|
-| 支付宝 | ![支付宝打赏](./assets/alipay.png) |
-| 微信 | ![微信打赏](./assets/wechat.png) |
+| 支付宝 | ![支付宝打赏](./screenshots/alipay.png) |
+| 微信 | ![微信打赏](./screenshots/wechat.png) |
 
 # 日复一日（FileRecall）- 使用说明
 
